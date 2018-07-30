@@ -2,7 +2,7 @@
 """
 Created on Sun Jul 29 21:36:22 2018
 
-@author: lenovo
+@author: YIANG
 """
 import numpy as np
 import string
